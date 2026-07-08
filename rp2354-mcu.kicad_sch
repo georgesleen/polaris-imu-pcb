@@ -1,0 +1,12 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ef66c962-eafd-4858-86e4-4c4142656d27")
+	(paper "A4")
+	(title_block
+		(company "UBC Sailbot")
+		(comment 1 "George Sleen")
+	)
+	(lib_symbols)
+)
