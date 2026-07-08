@@ -9,6 +9,7 @@
 ## Drawings
 
 ![Schematic](drawings/polaris-imu-pcb.pdf)
+
 ![PCB](drawings/polaris-imu-pcb-pcb-drawing.pdf)
 
 ## Ordering
