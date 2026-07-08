@@ -4333,6 +4333,92 @@
 		)
 	)
 	(symbol
+		(lib_id "GS_Virtual:UBC_Sailbot_Logo")
+		(at 44.45 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bd1a7571-7c30-4976-9f02-b67ebcebe82f")
+		(property "Reference" "S2"
+			(at 44.45 101.6 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Logo"
+			(at 44.45 97.028 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "GS_Virtual:UBC_Sailbot_Logo_Plain"
+			(at 44.45 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "UBC Sailbot Logo"
+			(at 44.45 99.314 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "SPICE Warning Override" "Virtual Part"
+			(at 44.45 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "polaris-imu-pcb"
+				(path "/0ced2fb0-b5fd-4752-8bb9-7a03747afc00"
+					(reference "S2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "GS_Power_Symbols:+5V")
 		(at 63.5 45.72 0)
 		(unit 1)
@@ -4505,7 +4591,7 @@
 	)
 	(symbol
 		(lib_id "GS_Virtual:UBC_Sailbot_Logo")
-		(at 64.77 104.14 0)
+		(at 27.94 105.41 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4516,7 +4602,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9a4120b-27d2-4dcc-bdbf-04fce875b406")
 		(property "Reference" "S1"
-			(at 64.77 100.33 0)
+			(at 27.94 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4526,7 +4612,7 @@
 			)
 		)
 		(property "Value" "Logo"
-			(at 64.77 95.758 0)
+			(at 27.94 97.028 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4537,7 +4623,7 @@
 			)
 		)
 		(property "Footprint" "GS_Virtual:UBC_Sailbot_Logo_Silk"
-			(at 64.77 104.14 0)
+			(at 27.94 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4548,7 +4634,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 64.77 104.14 0)
+			(at 27.94 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4559,7 +4645,7 @@
 			)
 		)
 		(property "Description" "UBC Sailbot Logo"
-			(at 64.77 98.044 0)
+			(at 27.94 99.314 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4570,7 +4656,7 @@
 			)
 		)
 		(property "SPICE Warning Override" "Virtual Part"
-			(at 64.77 104.14 0)
+			(at 27.94 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
